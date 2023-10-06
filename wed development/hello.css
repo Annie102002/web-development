@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+    text-align: center;
+}
+#A{ font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: rgb(90,50,50);
+}
+#B{
+    font: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    color:palevioletred;
+}
+#C{
+    font :300;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: unset;
+    color:violet;
+}
